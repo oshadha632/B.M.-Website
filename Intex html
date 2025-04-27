@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ඉංජිනේරුවරයෙක් වීමට ක්‍රියා කළ යුතු පියවර</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ඉංජිනේරුවරයෙක් වීමට ක්‍රියා කළ යුතු පියවර</h1>
+    </header>
+    <main>
+        <section id="education">
+            <h2>අධ්‍යාපනය ලබාගන්න</h2>
+            <p>සාමාන්‍යයෙන්, තොරතුරු තාක්‍ෂණ (I.T.) හෝ සමාන විෂයක් සඳහා උපාධියක් (B.Sc. IT, Computer Science, Engineering) අවශ්‍ය වේ.</p>
+        </section>
+        <section id="skills">
+            <h2>මූලික දැනුම ලබාගන්න සහ මෘදුකාංග භාවිතය ඉගෙනගන්න</h2>
+            <ul>
+                <li><strong>Programming IDEs:</strong> Visual Studio Code, IntelliJ IDEA, Eclipse වැනි IDE භාවිතයෙන් කේතනය (coding) සඳහා මූලික පුහුණුව ලබාගන්න.</li>
+                <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB වැනි දත්ත සම්භාර (databases) කළමනාකරණය ඉගෙනගන්න.</li>
+                <li><strong>Version Control Systems:</strong> Git හා GitHub වැනි version control tools භාවිතා කරන ආකාරය පිළිබඳ දැනුමක් ලබාගන්න.</li>
+                <li><strong>Operating Systems:</strong> Windows Server, Ubuntu, Fedora වැනි ක්‍රියාත්මක පද්ධති (Operating Systems) අත්දැකීම් ලබාගන්න.</li>
+                <li><strong>Networking Tools:</strong> Cisco Packet Tracer, Wireshark වැනි tools භාවිතයෙන් ජාලකරණය (networking) හා troubleshooting පුහුණුව ලබාගන්න.</li>
+                <li><strong>Cybersecurity Tools:</strong> Kali Linux, Burp Suite වැනි cybersecurity tools පාවිච්චි කිරීමේ හැකියාවක් ගොඩනගන්න.</li>
+                <li><strong>Virtualization Software:</strong> VMware, VirtualBox වැනි මෘදුකාංග භාවිතයෙන් virtual environments නිර්මාණය කරන්න.</li>
+            </ul>
+        </section>
+        <section id="additional-training">
+            <h2>අමතර පුහුණුව</h2>
+            <p>මෘදුකාංග සංවර්ධනය, දත්ත විද්‍යාව (data science), මාලාවන් (networking) ආදියට විශේෂ පුහුණුවක් ලබාගන්න.</p>
+        </section>
+        <section id="community">
+            <h2>ප්‍රජා වටපිටාවට එක්වීම</h2>
+            <p>I.T. සමුදෘෂ්ටි (workshops), meetups හා conferences වලට සහභාගී වන්න.</p>
+        </section>
+        <section id="experience">
+            <h2>ප්‍රායෝගික අත්දැකීම් ලබාගන්න</h2>
+            <p>Internship හෝ entry-level IT technician තනතුරකින් ආරම්භ කරන්න.</p>
+        </section>
+        <section id="certifications">
+            <h2>සහතික පත්‍ර ලබාගන්න</h2>
+            <p>Microsoft Certified, Cisco Certifications, AWS Certified වැනි විශේෂිත සහතික ලබාගන්න.</p>
+        </section>
+        <footer>
+            <p>© 2025 ඉංජිනේරුවරයෙක් වීමට ක්‍රියා කළ යුතු පියවර</p>
+        </footer>
+    </main>
+</body>
+</html>
